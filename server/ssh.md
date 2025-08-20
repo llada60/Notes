@@ -2,6 +2,8 @@
 
 [TOC]
 
+local files `~/.ssh/config`
+
 ## Security with SSH keys [Useful!!!]
 
 When you normally connect to the cluster, you need to type your password each time. SSH keys provide a more secure alternative where you create a pair of keys (like a sophisticated lock and key system):
