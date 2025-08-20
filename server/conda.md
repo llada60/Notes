@@ -1,10 +1,12 @@
 [TOC]
 
-# Simple command
+## Basic usage
 
-```conda create -n xxx python=3.x ```： 安装新的conda环境
+**Create and manage environments**:
 
-```conda create -n xxx --clone AAA```：复制conda环境
+```conda create -n myenv python=3.x ```： 安装新的conda环境
+
+```conda create -n myenv --clone oldenv```：复制conda环境
 
 ```conda activate xxx```：启动环境
 
@@ -14,9 +16,66 @@
 
 ```conda deactivate```：退出当前环境
 
-# conda-pack package
+**Install packages**:
 
-## Use Cases
+```bash
+conda install numpy pandas            # Basic packages
+conda install pytorch -c pytorch      # From specific channel
+pip install package-name              # For packages not in conda
+```
+
+## conda install [pitfalls]
+
+
+
+## Environment Sharing
+
+Export your environment:
+
+```bash
+conda env export > environment.yml            # Full export
+conda env export --from-history > minimal.yml # Basic dependencies
+```
+
+Create from file:
+
+```bash
+conda env create -f environment.yml           # Create environment from file
+```
+
+
+
+## MiniConda Install
+
+Conda is our recommended tool for managing Python environments. It provides:
+
+- Isolated environments for different projects
+- Comprehensive package management
+- Import and export environment easily
+
+Install Miniconda:
+
+```bash
+# Download and install
+mkdir -p ~/miniconda3
+wget <https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh> -O ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm ~/miniconda3/miniconda.sh
+```
+
+Exit your session as suggested by the installer, and re-log in :
+
+```powershell
+# Load the conda binaries
+source ~/.bashrc
+
+# Initialize conda environment
+conda init
+```
+
+## conda-pack package [no working]
+
+### Use Cases
 
 - Bundling an application with its environment for deployment
 - Packaging a conda environment for use with Apache Spark when deploying on YARN ([see here](https://conda.github.io/conda-pack/spark.html) for more information).
@@ -25,7 +84,7 @@
 - Packaging an environment as single executable with entrypoint to run on execution (see the instructions for [Linux and macOS](https://conda.github.io/conda-pack/unix-binary.html)).
 - *BETA*: Packaging a conda environment as a standard Cloudera parcel. This is a newly added capability. It has been tested on a live cluster, but different cluster configurations may produce different results. We welcome users to [file an issue](https://github.com/conda/conda-pack/issues) if necessary. [See here](https://conda.github.io/conda-pack/parcel.html) for more information).
 
-## Commandline Usage
+### Commandline Usage
 
 `conda-pack` is primarily a commandline tool. Full CLI docs can be found [here](https://conda.github.io/conda-pack/cli.html).
 
@@ -75,7 +134,7 @@ $ source my_env/bin/activate
 (my_env) $ source my_env/bin/deactivate
 ```
 
-## API Usage
+### API Usage
 
 `conda-pack` also provides a Python API, the full documentation of which can be found [here](https://conda.github.io/conda-pack/api.html). The API mostly mirrors that of the `conda pack` commandline. Repeating the examples from above:
 
