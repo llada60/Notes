@@ -24,9 +24,75 @@ conda install pytorch -c pytorch      # From specific channel
 pip install package-name              # For packages not in conda
 ```
 
+### Cuda Version Control
+
+```bash
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1
+conda install \
+    nvidia/label/cuda-12.1.0::cuda-toolkit \
+    libcusparse-dev \
+    libcusolver-dev \
+    --override-channels \
+    -c nvidia/label/cuda-12.1.0
+```
+
+Args:
+
+- `-c, --channel`
+
+  指定额外的包搜索通道。这些通道按给定顺序搜索，可以是 URL、本地目录（使用 'file://' 语法）或简单路径（如 '/home/conda/mychan' 或 '../mychan'）。然后，搜索默认或 .condarc 中的通道（除非使用了 --override-channels）。可以使用 'defaults' 来获取 conda 的默认包。还可以使用任何名称，.condarc 的 channel_alias 值将被预先添加。默认的 channel_alias 是 https://conda.anaconda.org/。
+
+- `--use-local`
+
+  使用本地构建的包。等同于 '-c local'。
+
+- `--override-channels`
+
+  完全忽略配置文件中的默认channels，仅在-c指定的channel中搜索包
+
+## GCC
+
+```bash
+conda install -c conda-forge gcc=11 gxx=11
+```
+
+
+
+## Environment
+
+```bash
+export CUDA_HOME=$CONDA_PREFIX
+export CUDA_PATH=$CUDA_HOME
+export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
+export PATH=$CONDA_PREFIX/bin:$PATH
+
+export CC=$CONDA_PREFIX/bin/gcc
+export CXX=$CONDA_PREFIX/bin/g++
+export CFLAGS="-I$CONDA_PREFIX/include"
+
+export CXXFLAGS="-I$CONDA_PREFIX/include"
+export LDFLAGS="-L$CONDA_PREFIX/lib"
+```
+
+```
+echo $CUDA_HOME
+echo $CUDA_PATH
+echo $LD_LIBRARY_PATH
+echo $PATH
+echo $CC
+echo $CXX
+echo $CFLAGS
+```
+
+
+
 ## conda install [pitfalls]
 
+Checking torch's cuda version
 
+```bash
+python -c "import torch; print('Torch:', torch.__version__, '| CUDA available:', torch.cuda.is_available(), '| torch.version.cuda:', torch.version.cuda)"
+```
 
 ## Environment Sharing
 
