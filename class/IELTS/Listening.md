@@ -105,3 +105,44 @@ syllable：音节
 phonetically：语音上
 
 proponents：倡导者
+
+9.19
+
+drone 无人驾驶飞机
+
+ferry 渡轮
+
+revitalise 使复兴，使获得新生
+
+dweller 城市
+
+sewage 污水
+
+seal n. 海豹；(COVERING) 密封装置，封口；(MARK) 印章；封条；v.(COVERING)封上；v.(MARK)正式批准
+
+warehouse 仓库
+
+lorry 卡车
+
+van 小货车
+
+parcel 包裹；一块土地
+
+freight 货运
+
+barge v. 冲，幢；n. 驳船
+
+cargo 货物
+
+cargo bike 载重自行车
+
+pottery 制陶工艺
+
+impression & cratches == marks
+
+circular 圆形的，环形的；n. 通知
+
+people will recognize 引发共鸣
+
+overstate 夸大
+
