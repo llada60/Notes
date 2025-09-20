@@ -146,3 +146,36 @@ people will recognize 引发共鸣
 
 overstate 夸大
 
+9.20
+
+leisure 闲暇；空闲的
+
+rectangular 长方形的
+
+lamp 灯具；v.照亮
+
+gravel 碎石；砂砾
+
+venue 场地
+
+courtyard 院子
+
+bend 拐弯
+
+appetising 诱人的；开胃的
+
+proactive 积极主动的；主动出击的
+
+diagnose v.诊断
+
+diagnosis n.诊断
+
+bog 沼泽
+
+acidity 酸度
+
+peat 泥煤 
+
+deficiency 缺乏
+
+set alight 点燃
