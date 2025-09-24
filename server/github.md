@@ -29,3 +29,15 @@ ssh -T git@github.com
 
 
 
+
+
+每次启动新的terminal：
+
+```shell
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa_chatgarment
+
+//check
+ssh -T git@github.com
+```
+
