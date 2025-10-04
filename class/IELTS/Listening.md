@@ -179,3 +179,15 @@ peat 泥煤
 deficiency 缺乏
 
 set alight 点燃
+
+10.4
+
+stock 存货；资本；股份；债券；家畜；名声；祖先，家族，种
+
+afield 远离
+
+helicopter 直升机
+
+dart n.飞镖；褶皱；v.飞奔
+
+immobilize [stop sth. or someone. from moving]

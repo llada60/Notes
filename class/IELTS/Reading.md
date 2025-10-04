@@ -139,3 +139,25 @@ compelling 有说服力的；强迫
 arduous 困难的
 
 panacea 万能药
+
+9.21
+
+heterogeneous 各种各样的
+
+cluttered 凌乱的
+
+feasibility 可行性
+
+10.4
+
+abide 忍受；服从；遵守
+
+intensely flavoured 滋味浓郁
+
+sprout v.发芽；涌现；n.苗
+
+pesticide 杀虫剂
+
+crop 庄稼；一批，一帮人
+
+virtuous 道德高尚的
