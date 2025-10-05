@@ -180,7 +180,7 @@ deficiency 缺乏
 
 set alight 点燃
 
-10.4
+**10.4**
 
 stock 存货；资本；股份；债券；家畜；名声；祖先，家族，种
 
@@ -191,3 +191,41 @@ helicopter 直升机
 dart n.飞镖；褶皱；v.飞奔
 
 immobilize [stop sth. or someone. from moving]
+
+geography 地理学
+
+vegan 素食
+
+nutrient 养分 （提供养分的具体物质）
+
+nutrition 营养物质；营养学 （从食物中汲取利用营养的过程）
+
+provocaion 挑衅
+
+fertility 肥力
+
+interpersonal 人际的
+
+**10.5**
+
+scheme 方案；诡计
+
+coach 教练；长途汽车；（火车）车厢；四轮大马车
+
+publicity 宣传活动
+
+budget n.预算；v.计划（开支）；adj.低廉的
+
+promotion 促销；宣传；晋升，提升
+
+soar 猛增；高达
+
+desertification 沙漠化
+
+cognitive 感知的；认知的
+
+pottery 陶艺；陶器
+
+contract n.合同，约定；v.收缩，缩小
+
+insight 洞察力；深刻见解
