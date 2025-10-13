@@ -161,3 +161,5 @@ pesticide 杀虫剂
 crop 庄稼；一批，一帮人
 
 virtuous 道德高尚的
+
+tractable 易处理的；易控制的
