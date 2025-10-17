@@ -64,4 +64,6 @@ Do you often tell your friends when they do something well?
 
 # Part 2
 
+I think it is the book named How to become plannable for your daliy life. I read it couple of years ago when I was in undergraduate study. I was lazy and always put off my homework submission. I felt terrible and lose energy at that moment. However, after I read this book, it told me how to make a plan as small as the deadline submission and even as big as your life goal achievement. I learned how to manage my life with clear plan and regular time clock to stay energetic. For example, I wake up at 8 AM in the morning and do a exercise after then. Then prepare the meals for lunch and dinner in advance so I won't get hungry when it is time to eat. After the whole day study or hang around, I do mediation in the evening and go to bed before 11 PM. This plan in order I learned from book helps me a lot.
+
 # Part 3

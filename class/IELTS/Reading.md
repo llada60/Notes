@@ -163,3 +163,28 @@ crop 庄稼；一批，一帮人
 virtuous 道德高尚的
 
 tractable 易处理的；易控制的
+
+10.17
+
+pistol 手枪
+
+rotary 旋转式的
+
+account (to someone) for womething（对某人）就...作出解释/说明
+
+resolute=determined 坚决的，有决心的
+
+setback  挫折
+
+inquiring 追根问底的
+
+the jury is out 悬而未决
+
+put something down to 把原因归咎于
+
+penultimate 倒数第二的
+
+deprived 短缺的
+
+recognise the benefits of learning 重视教育
+

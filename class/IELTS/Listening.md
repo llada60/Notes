@@ -229,3 +229,57 @@ pottery 陶艺；陶器
 contract n.合同，约定；v.收缩，缩小
 
 insight 洞察力；深刻见解
+
+10.17
+
+tuning guitars 给吉他调音
+
+strum 弹奏
+
+chord 和弦；和音
+
+plectrum 拨子
+
+note 音符
+
+fingerpick 指法
+
+dock 码头
+
+casualty 受害者；伤亡人员；急诊室
+
+residential course 住宿式培训
+
+beige 米色
+
+suede 绒面革
+
+stain 沾污；染色；玷污
+
+mud 泥巴
+
+lighter shade 颜色浅
+
+unhygienic 不卫生的
+
+germ 细菌
+
+thrive 生长
+
+disk/disc 光碟；圆盘
+
+claw 爪子
+
+suction n.吸
+
+cling on to surface 抱紧，附着；接近；依恋
+
+grip its prey 紧握；使入迷；强烈地控制
+
+oxygen 氧气
+
+tube 管道
+
+moss 苔藓
+
+stroke 中风；一笔；击球，击打

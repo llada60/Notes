@@ -71,8 +71,6 @@ remain steady for the next year
 
 #### 对比
 
-it outrace xxx at the end of the period.
-
 surpass
 
 xxx as opposed to xxx
@@ -190,3 +188,34 @@ deficiency
 
 scarcity
 
+promote the innovation growth
+
+empower the growth of the  social devlopment
+
+be of no benefit in
+
+be beneficial to sth.
+
+make discoveries
+
+homelessness
+
+
+
+In the modern epoch, the length of working time has gained more and more attention. Some people champion the notion that workers should have a longer weekend and a shorter working week, but I am inclined to disagree with this statement.
+
+
+
+First of all, the length of working hours is highly relevant to the economic growth and social development. For example, the profit produced by people who work only one day in a week is much less than that produced by those who working five days per week. In order to push forward the continual development in economy and society, people are required to work regularly and effectively to produce products.
+
+
+
+Secondly, people realize their values by working, instead of resting. Some researches show that people are prone to consider life as meaningless when they have nothing to do. Most of the greatest achievements made by people were coming from hardworking and patience, however, taking a long break is of no benefit in inventing new products, making exciting discoveries and solving complicated problems.
+
+
+
+Last but not least, current social system requires people to work for long hours to satisfy the requirements of supply and demand. For example, people buy vegetables and fruits from markets, instead of growing the food by themselves. Therefore, it is straightforward that farmers should work to support the supply of food, in order to satisfy the demand of the consumers. Otherwise, the recycle system of supply and demand will be destroyed and cause social issues, such as homelessness and hunger.
+
+
+
+Overall, while taking time to rest provides relief from stress and allows us to enjoy life, longer working hours remain a crucial factor in realizing personal values and achieving our life goals.
